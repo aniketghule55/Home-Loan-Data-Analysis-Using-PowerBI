@@ -13,7 +13,7 @@ This repository contains a Power BI project focused on analyzing home loan data.
 - [Analysis](#analysis)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Structure
 The repository contains the following files:
@@ -33,7 +33,7 @@ The analysis covers various aspects of home loans, including:
 
 - Identified online channels as the top source, contributing 89K (36.46\%) to the total loan applications
 - Analyzed a total loan application amount of 245K, with 212.73K sanctioned and 195.71K disbursed
-- The Highest Amount Applied In a single quarter was in july 2019
+- The Highest Amount Applied In a single quarter was in July 2019
 - Improved loan recovery performance, achieving a recovery amount of 104.20K, equating to 53.24% recovery rate
 
 ## Results
