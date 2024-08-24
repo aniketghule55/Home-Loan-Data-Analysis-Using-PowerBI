@@ -21,9 +21,6 @@ The repository contains the following files:
 - `Home_loan.pbix`: Power BI file containing the home loan analysis.
 - `README.md`: Project overview and instructions.
 
-## Data Source
-The data used in this project is integrated within the Power BI file and includes various datasets relevant to home loans. If there are specific datasets used, they should be documented here.
-
 ## Installation
 To view and interact with the Power BI report, you'll need to have Power BI Desktop installed. You can download it from the [official Power BI website](https://powerbi.microsoft.com/desktop/).
 
