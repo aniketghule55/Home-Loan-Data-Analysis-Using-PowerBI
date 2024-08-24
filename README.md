@@ -8,7 +8,6 @@ This repository contains a Power BI project focused on analyzing home loan data.
 
 ## Table of Contents
 - [Project Structure](#project-structure)
-- [Data Source](#data-source)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Analysis](#analysis)
